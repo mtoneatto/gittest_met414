@@ -1,1 +1,3 @@
 whatever
+
+intentionally causing a merge conflict by entering changes online
